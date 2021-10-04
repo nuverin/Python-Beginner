@@ -1,2 +1,2 @@
-# Python-
-Learn Python Day ONE 
+I am beginner programmer
+Learn Python 2 hours
